@@ -1,0 +1,23 @@
+.container {
+    margin-bottom: 50px;
+}
+.slide-bg {
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
+.carousel-item {
+    padding: 20px 30px;
+   
+}
+.prc {
+    color: #ff136f;
+}
+.btn-buy-now {
+    color: white;
+    border-radius: 7px;
+    padding: 10px 30px;
+    cursor: pointer;
+    border: none;
+    background-color: #ff136f;
+
+}
